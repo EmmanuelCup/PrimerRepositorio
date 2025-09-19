@@ -1,0 +1,10 @@
+# Archivos generados por NetBeans que no queremos subir
+/build/
+/dist/
+/nbproject/private/
+
+# Archivos compilados de Java
+*.class
+
+# Paquetes finales
+*.war
